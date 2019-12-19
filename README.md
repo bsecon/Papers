@@ -1,2 +1,2 @@
-# papers
+# Papers
 My current research papers
